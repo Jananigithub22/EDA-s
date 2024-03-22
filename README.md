@@ -1,2 +1,0 @@
-# EDA-s
-My projects
